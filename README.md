@@ -3,4 +3,4 @@ Meu nome é Moara, sou estudante de ADS, estudando programação como foco em fr
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS, SQL, MySQL, C#, C++
+Javascript, HTML, CSS, SQL, MySQL
