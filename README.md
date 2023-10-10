@@ -1,6 +1,6 @@
 ## 🚀 Sobre mim
-Meu nome é Moara, sou estudante de ADS, estudando programação como foco em front-end.
+Meu nome é Moara, sou estudante de ADS, estudando programação como foco em desenvolvimento full-stack
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS, SQL, MySQL
+Javascript, Java, HTML, CSS, SQL, MySQL
