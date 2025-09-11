@@ -1,7 +1,7 @@
 
 # 💃🏾 Olá, eu sou a Moara! 
 
-👩🏾‍💻 Desenvolvedora Fronted em formação<br/>
+👩🏾‍💻 Desenvolvedora Front-End em formação<br/>
 👩🏾‍🎓 Estudei Análise e Desenvolvimento de Sistemas<br/>
 💭 Atualmente estudando mais sobre desenvolvimento web full stack com React no front e Node.js no back!<br/>
 
